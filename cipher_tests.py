@@ -6,5 +6,5 @@ def test_generate_pad():
 def test_shiftamount ():
     assert shiftamount("AADD") == shiftamount ("AADD")
 
-
-
+test_shiftamount()
+test_generate_pad()
